@@ -5,7 +5,7 @@
 ## 🚀 Instalación
 
 1. Clona este repositorio en tu máquina local:
-   git clone https://github.com/tu_usuario/conversor-moneda-wrh3.git
+   git clone https://github.com/walbertoRH3/conversor-moneda-alura
 
 2. Abre el proyecto en tu IDE Preferido
 3. Asegurate de tener Java instalado en tu sistema
@@ -196,6 +196,7 @@ el conversion_rate con el cual calculamos el resultado de la conversion.
 
 ## ✅ Tecnologías Utilizadas
 - Java 🔧
+- Gson 🔧
 
 ## 🌟 Funcionalidades
 - Conversión de monedas 🛠️
