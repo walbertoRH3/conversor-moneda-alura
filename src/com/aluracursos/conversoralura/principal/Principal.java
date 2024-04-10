@@ -1,7 +1,6 @@
 package com.aluracursos.conversoralura.principal;
 
 import com.aluracursos.coversoralura.modelo.Cliente;
-
 import java.util.Scanner;
 
 public class Principal {
